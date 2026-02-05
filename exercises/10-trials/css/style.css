@@ -19,3 +19,44 @@
 #p4{
     background-color:aquamarine;
 }
+#p5-s1{
+    background-color:yellow;
+}
+#p6-s1{
+    font-weight: bold;
+}
+#p6-s2{
+    font-weight: bold;
+}
+#p7-s1{
+    font-style: italic;
+}
+#p7-s2{
+    font-weight: bold;
+}
+#p7-s3{
+    font-style: italic;
+}
+#p8-s1{
+    text-decoration: underline;
+}
+#p8-s2{
+    text-decoration: underline;
+}
+#p9{
+    font-size: 36px;
+}
+#p10-s1{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+#p10-s2{
+    font-size: 48px;
+    text-align: center;
+}
+#p10-s3{
+    font-style: italic;
+    font-size: 24px;
+    text-align: center;
+}
