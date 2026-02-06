@@ -1,0 +1,53 @@
+#container{
+    width: 500px;
+    min-height: 100vh;
+    background-color: rgb(46, 25, 46);
+    font-size: 0px;
+}
+.block{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 184, 184);
+    border: 10px outset rgb(46, 25, 46);
+}
+.orange{
+    background-color:rgb(210, 155, 53)
+
+}
+.lavender{
+    background-color: lavender;
+}
+.yellow{
+    background-color:rgb(255, 255, 150)
+}
+.red{
+    background-color: rgb(255, 190, 190);
+}
+.orange{
+    background-color:rgb(210, 155, 53)
+
+}
+.lavender{
+    background-color: lavender;
+}
+.yellow{
+    background-color:rgb(255, 255, 150)
+}
+.red{
+    background-color: rgb(255, 190, 190);
+}
+.orange{
+    background-color:rgb(210, 155, 53)
+
+}
+.lavender{
+    background-color: lavender;
+}
+.orange{
+    background-color:rgb(210, 155, 53)
+
+}
+.yellow{
+    background-color:rgb(255, 255, 150)
+}
