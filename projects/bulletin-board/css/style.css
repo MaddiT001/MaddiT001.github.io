@@ -1,8 +1,57 @@
-/*
-    NOTE TO STUDENTS: 
+.post-it{
+    background-color: rgb(58, 98, 58);
+    width: 200px;
+    min-height: 200px;
+    padding: 24px;
+    margin: 24px;
+    vertical-align: top;
+    display: inline-block;
+}
+.darkgreen{
+    background-color: rgb(59, 103, 62);
+    width: 200px;
+    height: 200px;
+}
+.red{
+    background-color: rgb(174, 55, 55);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 80px;
+    width: 150px;
+}
+.orange{
+    background-color: rgb(196, 139, 34);
+    height: 50px;
+    width: 75px;
+}
+.i1{
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+}
+.pink{
+    background-color: pink;
+}
+.i2{
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+}
+.dred{
+    background-color: rgb(98, 2, 2);
+    color: beige;
+    border-radius: 40px;
+    width: 150px;
+    height: 150px;
+    font-size: x-small;
 
-    This is the file you should be writing your CSS in 
-    for the Bulletin Board assignment.
-
-    Good luck, and have fun!
-*/
+}
+.black{
+    background-color: black;
+    color:white;
+    font-family: cursive;
+    font-size: medium;
+    width: 150px; 
+    height: 50px; 
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
