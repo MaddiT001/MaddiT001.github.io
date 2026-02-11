@@ -1,0 +1,26 @@
+#pine{
+    height: 200;
+    width: 200;
+    border: solid;
+    background-color: rgb(248, 242, 232);
+    padding: 20%;
+    margin: 10%;
+    display: inline-block;
+}
+#pinetop{
+    height: 200;
+    width: 200;
+    border: solid;
+    border-radius: 50%;
+    background-color: rgb(227, 191, 127);
+    padding: 20%;
+    margin: 10%;
+    display: inline-block;
+}
+p {
+    display: inline-block;
+    border: solid;
+    background-color: rgb(248, 242, 232);
+    padding: 20%;
+    margin: 10%;
+}
