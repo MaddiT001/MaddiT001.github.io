@@ -1,0 +1,43 @@
+#navbar {
+    test-align: center;
+    padding: 24px;
+    background-color: rgb(230, 230, 179);
+}
+/*if we did Div instead of navbar it would target all div (if we had others) 
+and mess up our top navagation*/
+#navbar a {
+    color:rgb(117, 146, 119);
+    text-decoration: none;
+}
+p a{
+    color:rgb(117, 146, 119);
+}
+p.warning{
+    background-color: bisque;
+}
+p.warning a {
+    color: rgb(87, 118, 93);
+}
+ul {
+    color:rgb(244, 166, 211);
+}
+ul a {
+    color:rgb(209, 45, 132)
+}
+ul p a {
+    color: blueviolet;
+}
+ul div a {
+    color: rgb(122, 172, 172);
+}
+/* Ds start off at 1-0-0 (100).
+Classes start off at 0-1-0 (10).
+HTML Elements start off at 0-0-1 (1).
+ 
+The more you combine or compound selectors, these will add.
+For example, a single "p {}" selector is specified to have
+a level of 001. If you change it to "p a {}", then the level
+of specificity changes to 002. If you make it "#navbar p {}",
+the specifity lies at 101. The higher the specifity, the more
+likey it is to override something of lower specificity. */
+
