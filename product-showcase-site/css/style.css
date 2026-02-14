@@ -1,0 +1,10 @@
+div {
+    font-family: "Sunshiney", cursive;
+    background-color: beige;
+}
+#images{
+    width:75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px 0px;
+}
