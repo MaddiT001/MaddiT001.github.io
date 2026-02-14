@@ -2,39 +2,38 @@
 *{
     box-sizing: border-box;
 }
-body{
+body {
     margin: 0px;
     font-family: "Bitcount Grid Double", system-ui;
-
 }
 h1,
-h2{
-    font-family:font-family: "Rubik Moonrocks", sans-serif; ;
+h2 {
+    font-family:font-family: "Rubik Moonrocks", sans-serif; 
 }
-.single-column{
+.single-column {
     background-color: rgb(205, 164, 132);
     width: 80%;
     max-width: 900px; 
     margin-left: auto;
     margin-right: auto;
 }
-.light-container{
+.light-container {
     background-color:rgb(216, 169, 169);
     padding: 48px 0px;
 }
-.dark-container{
-    background-color: rgb(178, 130, 130);;
+.dark-container {
+    background-color: rgb(178, 130, 130);
     color: rgb(255, 255, 255);
     padding: 48 0px;
 }
-h1{
-    margin: opx;
+h1 { 
+    margin: 0px;
 }
-div h1{
+div h1 {
     color: rgb(118, 150, 118);
     background-color: lightpink;
 }
-img{
+img {
     width: 100%;
     object-fit: cover;
 }
