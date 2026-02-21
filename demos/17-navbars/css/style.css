@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.single-column {
+    width: 90%;
+    max-width: 900px;
+    margin: 0px auto;
+}
+header {
+    background-color: rgb(90, 130, 144);
+}
+
+header nav {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: flex-end;
+    /* left align navagation */
+}
+nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+nav .logo img {
+    width: 200px;
+}
