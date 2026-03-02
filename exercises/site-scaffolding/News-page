@@ -3,21 +3,21 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title> News Page </title>
+        <title> Home Page </title>
         <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
         <header>
             <nav>
-                <h3> AngelEars </h3>
+    <h3> AngelEars </h3>
                 <a href="nav" class="single-column">
                 </a>
                 <a href="News-page">News</a>
                 <a href="Editorials">Editorials</a>
                 <a href="Media">Media</a>
-                <a href="nav" class="btn">Subscribe Now!</a>
+                <a href="button-page" class="btn">Subscribe Now!</a>
             </nav>
-        </header> 
-        <h2> News Page </h2>          
+        </header>  
+        <h2> Home Page </h2>          
     </body>
 </html>
